@@ -63,6 +63,12 @@ functionality:
 
 ### Heroku: https://maberrnews.herokuapp.com/
 
+to login into https://maberrnews.herokuapp.com/admin/ use:
+
+  - username: admin
+  
+  - passwork: 0
+
 ### Additional:
 
 - The code is formatted with BLACK.
