@@ -4,7 +4,7 @@
 
 1. CRUD API managing posts and functionality of 'amount of upvotes'.
 
-2. CRUD API managing comments. \
+2. CRUD API managing comments.
 
 3. Endpoint to upvote the post.
 
@@ -67,7 +67,7 @@ to login into https://maberrnews.herokuapp.com/admin/ use:
 
   - username: admin
   
-  - passwork: 0
+  - password: 0
 
 ### Additional:
 
@@ -81,4 +81,4 @@ to login into https://maberrnews.herokuapp.com/admin/ use:
   
   to run:
   
-  -- $ sudo docker-compose up
+  -- $ sudo docker-compose up -d
